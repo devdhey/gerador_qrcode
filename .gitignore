@@ -1,0 +1,19 @@
+
+# Ignore Python virtual environments
+venv/
+venv_qrcode/
+.venv/
+
+# Ignore Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# pytest cache
+.pytest_cache/
+
+# You can add other common ignores below if desired, for example:
+# env/
+# ENV/
+    
